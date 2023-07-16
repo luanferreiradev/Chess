@@ -1,0 +1,17 @@
+body {
+  font-family:chess;
+  margin: 0;
+  background-color:#fff;
+  background-image: url("cristo-redentor-desportivo-butanta3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.square {
+  background: #101010;
+  display:inline-block;
+  border: 1px solid #fff;
+  text-align:center;
+  position: absolute;
+  cursor: pointer;
+}
